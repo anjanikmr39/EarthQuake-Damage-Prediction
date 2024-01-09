@@ -170,6 +170,8 @@ and kurtosis value which does not lies between -1 to +1. So for this we have to 
 --------
 ## **Model Comparision Report**
 
+![image](https://github.com/anjanikmr39/EarthQuake-Damage-Prediction/assets/67219753/c011321b-72ba-473b-9e00-b0fff7f5e26e)
+
 ![image](https://github.com/anjanikmr39/EarthQuake-Damage-Prediction/assets/67219753/9e5b3194-65e8-493e-8e09-8c8ecc7ca6f4)
 
 --------
