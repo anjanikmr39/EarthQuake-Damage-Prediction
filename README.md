@@ -170,9 +170,24 @@ and kurtosis value which does not lies between -1 to +1. So for this we have to 
 --------
 ## **Model Comparision Report**
 
-![image](https://github.com/anjanikmr39/EarthQuake-Damage-Prediction/assets/67219753/c011321b-72ba-473b-9e00-b0fff7f5e26e)
+```
++---------------------+--------------------+-----------------+
+| Model Name          | Testing Accuracy   | Ranking order   |
++=====================+====================+=================+
+| XG-Boosting         | 73%                | 1st(BEST)       |
++---------------------+--------------------+-----------------+
+| Random Forest       | 71%                | 2nd             |
++---------------------+--------------------+-----------------+
+| Decision Tree       | 70%                | 3rd             |
++---------------------+--------------------+-----------------+
+| Gradient Boosting   | 68%                | 4th             |
++---------------------+--------------------+-----------------+
+| K-Nearest Neighbour | 68%                | 5th             |
++---------------------+--------------------+-----------------+
+| Logistic Regression | 58%                | 6th             |
++---------------------+--------------------+-----------------+
 
-![image](https://github.com/anjanikmr39/EarthQuake-Damage-Prediction/assets/67219753/9e5b3194-65e8-493e-8e09-8c8ecc7ca6f4)
+```
 
 --------
 ## **Suggestions to the Seismologists**
