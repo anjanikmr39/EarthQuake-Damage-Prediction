@@ -200,6 +200,6 @@ After 15 years there would be high chance of more damage so we have to do renova
 --------
 ## **Challenges faced**
 We did all the steps such as Basic info, EDA, Preprocessing, Model creation. But we have to face challenges mostly in EDA part, because there are total 40 features in which we have to perform feature extraction by analysing the EDA part from different graphs. Atlast we finally reduced 40 features into 17 features. And then apply different six models and shows their Accuracy in Model Comparision Report.
-
+-----------
 ## **More information**
 Visit this python file for more detailed analysis [EquakeDamagePred.ipynb](https://github.com/anjanikmr39/EarthQuake-Damage-Prediction/blob/master/EquakeDamagePred.ipynb).
